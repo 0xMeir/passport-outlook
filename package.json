@@ -1,0 +1,27 @@
+{
+  "name": "passport-outlook",
+  "version": "1.0.0",
+  "description": "Outlook authentication strategy for Passport.",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auth",
+    "passport",
+    "outlook",
+    "windows",
+    "live",
+    "outlook.com"
+  ],
+  "dependencies": {
+    "passport-oauth2": "~1.1.1",
+    "request":"~2.67.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/globlee/passport-outlook.git"
+  },
+  "author": "Meir Bank",
+  "license": "MIT"
+}
