@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # passport-windowslive
 
 [![Build](https://travis-ci.org/jaredhanson/passport-windowslive.png)](https://travis-ci.org/jaredhanson/passport-windowslive)
@@ -77,3 +78,9 @@ For a complete, working example, refer to the [login example](https://github.com
 [The MIT License](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2011-2014 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
+=======
+# passport-outlook
+
+Based on Jared Hanson's passport-windowslive strategy, with a modification to retrieve the outlook profile instead of the windows live profile.
+see: https://oauthplay.azurewebsites.net/ to see how this works.
+>>>>>>> origin/master
